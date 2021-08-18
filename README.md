@@ -8,7 +8,7 @@ A Web application developed in React/Typescript that allows users to search for 
 ### [Demo](https://gingerlauren.github.io/GithubSearch)
 
 ## Technologies
-
+nnnnnnnl
 
 * React
 * Typescript
