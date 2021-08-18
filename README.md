@@ -14,7 +14,7 @@ A Web application developed in React/Typescript that allows users to search for 
 * React Router
 * React Awesome Reveal
 * Styled Components
-* 
+* React Query
 
 
 
