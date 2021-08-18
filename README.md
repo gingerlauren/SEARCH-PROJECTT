@@ -9,7 +9,6 @@ A Web application developed in React/Typescript that allows users to search for 
 
 ## Technologies
 
-
 * React
 * Typescript
 * React Router
