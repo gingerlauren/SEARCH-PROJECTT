@@ -2,7 +2,7 @@
   "name": "github-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://c0llinn.github.io/GithubSearch",
+  "homepage": "https://gingerlauren.github.io/GithubSearch",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
